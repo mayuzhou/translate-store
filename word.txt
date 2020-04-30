@@ -1,4 +1,4 @@
-1:::1:::1:::CHINESE:::CHINESE:::-------Abort:::中止
+Abort:::中止
 
 动词: 退出; 舍弃:::null:::CHINESE:::ENGLISH:::-------Acquires:::取得
 
@@ -89,7 +89,7 @@
 
 动词: 暂停; 中止; 停止; 中断; 挂; 悬; 吊; 缓期; 悬疑; 挂上; 罢; 废弃; 辍; 悬上; 缓服兵役:::null:::CHINESE:::ENGLISH:::-------unless:::除非
 
-连词: 除非; 如果不:::null:::CHINESE:::ENGLISH:::-------void:::虚空
+连词: 除非; 如果不:::null:::CHINESE:::ENGLISH:::-------void1:::虚空
 
 名词: 空间; 空虚; 虚
 动词: 废止
