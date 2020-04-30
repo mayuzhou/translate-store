@@ -1,4 +1,4 @@
-1:::1:::1:::CHINESE:::ENGLISH:::-------Abort:::中止
+Abort:::中止
 
 动词: 退出; 舍弃:::null:::CHINESE:::ENGLISH:::-------Acquires:::取得
 
