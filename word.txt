@@ -61,7 +61,9 @@ Abort:::中止
 动词: 扩大; 扩展; 拓展; 膨胀; 扩张; 扩充; 扩; 壮大; 增; 膨大; 广; 赢得; 演; 菶; 演变; 养殖; 扩大为; 使 ... 膨胀:::null:::CHINESE:::ENGLISH:::-------folding:::可折
 
 名词: 折页
-形容词: 可折的:::null:::CHINESE:::ENGLISH:::-------indicate:::表明
+形容词: 可折的:::null:::CHINESE:::ENGLISH:::-------garbage:::垃圾
+
+名词: 垃圾; 废物; 垃; 尘芥:::ˈgärbij:::ENGLISH:::CHINESE:::-------indicate:::表明
 
 动词: 表明; 表示; 指出; 标明; 指; 预示; 意味着; 标志; 主; 隐射; 选拔:::null:::CHINESE:::ENGLISH:::-------invocation:::调用
 
