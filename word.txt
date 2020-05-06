@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Abort:::中止
+
+动词: 退出; 舍弃:::null:::CHINESE:::ENGLISH:::-------=======
+Aware:::知道的::::::CHINESE:::ENGLISH:::-------Abort:::中止
 
 动词: 退出; 舍弃:::null:::CHINESE:::ENGLISH:::-------Acquires:::取得
 
