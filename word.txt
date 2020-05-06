@@ -50,7 +50,9 @@ Aware:::知道的::::::CHINESE:::ENGLISH:::-------Abort:::中止
 
 动词: 集合; 组合; 聚集; 集聚; 组成; 调集; 攒; 会聚; 会合; 汇; 齐集; 总; 会; 萃; 凑合; 聚; 揫; 鼓起; 营建; 群集; 萃聚; 荟集; 萃集:::null:::CHINESE:::ENGLISH:::-------available:::可用的
 
-形容词: 可得到; 合宜的; 可用的:::null:::CHINESE:::ENGLISH:::-------delivery:::交货
+形容词: 可得到; 合宜的; 可用的:::null:::CHINESE:::ENGLISH:::-------coordination:::协调
+
+名词: 协调; 协作:::kōˌôrdnˈāSHən:::ENGLISH:::CHINESE:::-------delivery:::交货
 
 名词: 交货; 输送; 输; 发出; 娩; 发行:::null:::CHINESE:::ENGLISH:::-------desired:::想要的
 
