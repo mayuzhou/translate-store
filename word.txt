@@ -59,7 +59,9 @@ Aware:::知道的::::::CHINESE:::ENGLISH:::-------Abort:::中止
 动词: 贴现; 折; 打折扣:::null:::CHINESE:::ENGLISH:::-------dynamic:::动态
 
 名词: 动态; 动力学
-形容词: 活跃; 能动; 轰轰烈烈:::null:::CHINESE:::ENGLISH:::-------expand:::扩大
+形容词: 活跃; 能动; 轰轰烈烈:::null:::CHINESE:::ENGLISH:::-------enumeration:::列举
+
+名词: 列举; 数说:::null:::ENGLISH:::CHINESE:::-------expand:::扩大
 
 动词: 扩大; 扩展; 拓展; 膨胀; 扩张; 扩充; 扩; 壮大; 增; 膨大; 广; 赢得; 演; 菶; 演变; 养殖; 扩大为; 使 ... 膨胀:::null:::CHINESE:::ENGLISH:::-------folding:::可折
 
