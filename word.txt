@@ -102,4 +102,4 @@ Abort:::中止
 
 名词: 空间; 空虚; 虚
 动词: 废止
-形容词: 空的; 空闲的:::void:::ENGLISH:::CHINESE:::-------��闲的:::void:::ENGLISH:::CHINESE:::-------
+形容词: 空的; 空闲的:::void:::ENGLISH:::CHINESE:::-------��闲的:::void:::ENGLISH:::CHINESE:::ENGLISH:::-------
