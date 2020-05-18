@@ -53,9 +53,7 @@ Abort:::中止
 名词: 折扣; 贴现; 贴息; 扣; 扣头
 动词: 贴现; 折; 打折扣::::::CHINESE:::ENGLISH:::-------enumeration:::列举
 
-名词: 列举; 数说:::null:::ENGLISH:::CHINESE:::-------expand:::扩大
-
-动词: 扩大; 扩展; 拓展; 膨胀; 扩张; 扩充; 扩; 壮大; 增; 膨大; 广; 赢得; 演; 菶; 演变; 养殖; 扩大为; 使 ... 膨胀:::ikˈspand:::ENGLISH:::CHINESE:::-------folding:::可折
+名词: 列举; 数说:::null:::ENGLISH:::CHINESE:::-------folding:::可折
 
 名词: 折页
 形容词: 可折的:::null:::ENGLISH:::CHINESE:::-------garbage:::垃圾
