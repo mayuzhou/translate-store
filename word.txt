@@ -6,10 +6,7 @@ Abort:::中止
 
 名词: 屏障; 障碍; 障; 壁垒; 障碍物; 关; 栏栅:::null:::CHINESE:::ENGLISH:::-------COUPON:::优惠券
 
-名词: 优惠券:::ˈk(y)o͞oˌpän:::ENGLISH:::CHINESE:::-------Customizer:::定制器:::null:::CHINESE:::ENGLISH:::-------Cyclic:::循环的:::null:::CHINESE:::ENGLISH:::-------Delegate:::代表
-
-名词: 代表; 襄理
-动词: 发; 委派 ... 为代表:::null:::ENGLISH:::CHINESE:::-------Disables:::禁用
+名词: 优惠券:::ˈk(y)o͞oˌpän:::ENGLISH:::CHINESE:::-------Customizer:::定制器:::null:::CHINESE:::ENGLISH:::-------Cyclic:::循环的:::null:::CHINESE:::ENGLISH:::-------Disables:::禁用
 
 动词: 作不用的:::disˈābəl:::ENGLISH:::CHINESE:::-------Discard:::丢弃
 
