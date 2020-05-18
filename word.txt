@@ -73,10 +73,7 @@ Abort:::中止
 
 名词: 开会祈祷:::ˌinvəˈkāSHən:::ENGLISH:::CHINESE:::-------mall:::购物中心
 
-名词: 购物中心; 林荫路:::môl:::ENGLISH:::CHINESE:::-------permit:::允许
-
-动词: 允许; 许可; 准许; 容许; 许; 准; 允; 容; 准予; 得; 兴; 给
-名词: 允许; 许可证; 执照; 凭照:::ˈpərmit:::ENGLISH:::CHINESE:::-------purposes:::目的
+名词: 购物中心; 林荫路:::môl:::ENGLISH:::CHINESE:::-------purposes:::目的
 
 名词: 目的; 宗旨; 旨; 意; 用意; 意向; 宗
 动词: 意欲:::null:::ENGLISH:::CHINESE:::-------restore:::恢复
