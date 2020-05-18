@@ -51,10 +51,7 @@ Abort:::中止
 动词: 欲望; 愿望; 欲; 要; 选拔; 愒:::null:::CHINESE:::ENGLISH:::-------discount:::折扣
 
 名词: 折扣; 贴现; 贴息; 扣; 扣头
-动词: 贴现; 折; 打折扣::::::CHINESE:::ENGLISH:::-------dynamic:::动态
-
-名词: 动态; 动力学
-形容词: 活跃; 能动; 轰轰烈烈:::dīˈnamik:::ENGLISH:::CHINESE:::-------enumeration:::列举
+动词: 贴现; 折; 打折扣::::::CHINESE:::ENGLISH:::-------enumeration:::列举
 
 名词: 列举; 数说:::null:::ENGLISH:::CHINESE:::-------expand:::扩大
 
