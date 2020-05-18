@@ -14,7 +14,7 @@ Abort:::中止
 动词: 作不用的:::disˈābəl:::ENGLISH:::CHINESE:::-------Discard:::丢弃
 
 动词: 丢弃; 废弃; 弃; 抛弃; 弃置; 摈弃; 摈除; 屏弃; 摈; 撇弃
-名词: 抛弃物:::null:::CHINESE:::ENGLISH:::-------Enhancer:::增强剂:::null:::ENGLISH:::CHINESE:::-------Initializing:::初始化中
+名词: 抛弃物:::null:::CHINESE:::ENGLISH:::-------Initializing:::初始化中
 
 动词: 初始化:::null:::ENGLISH:::CHINESE:::-------Instantiation:::实例化:::null:::ENGLISH:::CHINESE:::-------Least frequently used:::最少使用:::null:::ENGLISH:::CHINESE:::-------Least recently used:::最近最少使用:::null:::ENGLISH:::CHINESE:::-------Partner:::伙伴
 
