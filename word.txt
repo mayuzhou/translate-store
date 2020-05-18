@@ -16,7 +16,7 @@ Abort:::中止
 动词: 丢弃; 废弃; 弃; 抛弃; 弃置; 摈弃; 摈除; 屏弃; 摈; 撇弃
 名词: 抛弃物:::null:::CHINESE:::ENGLISH:::-------Enhancer:::增强剂::::::CHINESE:::ENGLISH:::-------Initializing:::初始化中
 
-动词: 初始化:::null:::ENGLISH:::CHINESE:::-------Instantiation:::实例化:::null:::ENGLISH:::CHINESE:::-------Least frequently used:::最少使用:::null:::ENGLISH:::CHINESE:::-------Least recently used:::最近最少使用:::null:::ENGLISH:::CHINESE:::-------Partner:::伙伴
+动词: 初始化:::null:::ENGLISH:::CHINESE:::-------Least frequently used:::最少使用:::null:::ENGLISH:::CHINESE:::-------Least recently used:::最近最少使用:::null:::ENGLISH:::CHINESE:::-------Partner:::伙伴
 
 名词: 伙伴; 搭档; 同伴; 伴; 股东; 朋友; 伙; 同伙; 参与者; 对手; 丈夫; 陪伴; 伴儿; 夫人; 配手; 对向; 伴吕; 合伙人; 参加者; 夥; 合夥人:::null:::ENGLISH:::CHINESE:::-------Predicate:::谓语
 
