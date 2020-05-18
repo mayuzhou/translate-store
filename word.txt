@@ -9,10 +9,14 @@ Abort:::中止
 名词: 优惠券:::ˈk(y)o͞oˌpän:::ENGLISH:::CHINESE:::-------Customizer:::定制器:::null:::CHINESE:::ENGLISH:::-------Cyclic:::循环的:::null:::CHINESE:::ENGLISH:::-------Delegate:::代表
 
 名词: 代表; 襄理
-动词: 发; 委派 ... 为代表:::null:::ENGLISH:::CHINESE:::-------Discard:::丢弃
+动词: 发; 委派 ... 为代表:::null:::ENGLISH:::CHINESE:::-------Disables:::禁用
+
+动词: 作不用的::::::CHINESE:::ENGLISH:::-------Discard:::丢弃
 
 动词: 丢弃; 废弃; 弃; 抛弃; 弃置; 摈弃; 摈除; 屏弃; 摈; 撇弃
-名词: 抛弃物:::null:::CHINESE:::ENGLISH:::-------Enhancer:::增强剂::::::CHINESE:::ENGLISH:::-------Instantiation:::实例化:::null:::ENGLISH:::CHINESE:::-------Least frequently used:::最少使用:::null:::ENGLISH:::CHINESE:::-------Least recently used:::最近最少使用:::null:::ENGLISH:::CHINESE:::-------Partner:::伙伴
+名词: 抛弃物:::null:::CHINESE:::ENGLISH:::-------Enhancer:::增强剂::::::CHINESE:::ENGLISH:::-------Initializing:::初始化中
+
+动词: 初始化:::null:::ENGLISH:::CHINESE:::-------Instantiation:::实例化:::null:::ENGLISH:::CHINESE:::-------Least frequently used:::最少使用:::null:::ENGLISH:::CHINESE:::-------Least recently used:::最近最少使用:::null:::ENGLISH:::CHINESE:::-------Partner:::伙伴
 
 名词: 伙伴; 搭档; 同伴; 伴; 股东; 朋友; 伙; 同伙; 参与者; 对手; 丈夫; 陪伴; 伴儿; 夫人; 配手; 对向; 伴吕; 合伙人; 参加者; 夥; 合夥人:::null:::ENGLISH:::CHINESE:::-------Predicate:::谓语
 
@@ -40,7 +44,9 @@ Abort:::中止
 动词: 换; 营业; 出售; 营; 购物
 形容词: 商业的; 通商的; 贸易的:::null:::ENGLISH:::CHINESE:::-------assemble:::组装
 
-动词: 集合; 组合; 聚集; 集聚; 组成; 调集; 攒; 会聚; 会合; 汇; 齐集; 总; 会; 萃; 凑合; 聚; 揫; 鼓起; 营建; 群集; 萃聚; 荟集; 萃集::::::CHINESE:::ENGLISH:::-------coordination:::协调
+动词: 集合; 组合; 聚集; 集聚; 组成; 调集; 攒; 会聚; 会合; 汇; 齐集; 总; 会; 萃; 凑合; 聚; 揫; 鼓起; 营建; 群集; 萃聚; 荟集; 萃集::::::CHINESE:::ENGLISH:::-------available:::可用的
+
+形容词: 可得到; 合宜的; 可用的::::::CHINESE:::ENGLISH:::-------coordination:::协调
 
 名词: 协调; 协作:::kōˌôrdnˈāSHən:::ENGLISH:::CHINESE:::-------delivery:::交货
 
@@ -49,9 +55,14 @@ Abort:::中止
 动词: 欲望; 愿望; 欲; 要; 选拔; 愒:::null:::CHINESE:::ENGLISH:::-------discount:::折扣
 
 名词: 折扣; 贴现; 贴息; 扣; 扣头
-动词: 贴现; 折; 打折扣::::::CHINESE:::ENGLISH:::-------enumeration:::列举
+动词: 贴现; 折; 打折扣::::::CHINESE:::ENGLISH:::-------dynamic:::动态
 
-名词: 列举; 数说:::null:::ENGLISH:::CHINESE:::-------folding:::可折
+名词: 动态; 动力学
+形容词: 活跃; 能动; 轰轰烈烈::::::CHINESE:::ENGLISH:::-------enumeration:::列举
+
+名词: 列举; 数说:::null:::ENGLISH:::CHINESE:::-------expand:::扩大
+
+动词: 扩大; 扩展; 拓展; 膨胀; 扩张; 扩充; 扩; 壮大; 增; 膨大; 广; 赢得; 演; 菶; 演变; 养殖; 扩大为; 使 ... 膨胀:::ikˈspand:::ENGLISH:::CHINESE:::-------folding:::可折
 
 名词: 折页
 形容词: 可折的:::null:::ENGLISH:::CHINESE:::-------garbage:::垃圾
