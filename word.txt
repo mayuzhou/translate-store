@@ -45,9 +45,7 @@ Abort:::中止
 
 名词: 行业; 商业; 贸; 业; 商; 工
 动词: 换; 营业; 出售; 营; 购物
-形容词: 商业的; 通商的; 贸易的:::null:::ENGLISH:::CHINESE:::-------assemble:::组装
-
-动词: 集合; 组合; 聚集; 集聚; 组成; 调集; 攒; 会聚; 会合; 汇; 齐集; 总; 会; 萃; 凑合; 聚; 揫; 鼓起; 营建; 群集; 萃聚; 荟集; 萃集:::əˈsembəl:::ENGLISH:::CHINESE:::-------available:::可用的
+形容词: 商业的; 通商的; 贸易的:::null:::ENGLISH:::CHINESE:::-------available:::可用的
 
 形容词: 可得到; 合宜的; 可用的:::əˈvāləbəl:::ENGLISH:::CHINESE:::-------coordination:::协调
 
