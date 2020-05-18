@@ -4,9 +4,7 @@ Abort:::中止
 
 动词: 获得; 取得; 树立; 学到; 添置; 兼并; 买; 买进; 染; 养; 嬴; 发迹; 发展:::null:::CHINESE:::ENGLISH:::-------Barrier:::屏障
 
-名词: 屏障; 障碍; 障; 壁垒; 障碍物; 关; 栏栅:::null:::CHINESE:::ENGLISH:::-------COUPON:::优惠券
-
-名词: 优惠券:::ˈk(y)o͞oˌpän:::ENGLISH:::CHINESE:::-------Customizer:::定制器:::null:::CHINESE:::ENGLISH:::-------Cyclic:::循环的:::null:::CHINESE:::ENGLISH:::-------Delegate:::代表
+名词: 屏障; 障碍; 障; 壁垒; 障碍物; 关; 栏栅:::null:::CHINESE:::ENGLISH:::-------Customizer:::定制器:::null:::CHINESE:::ENGLISH:::-------Cyclic:::循环的:::null:::CHINESE:::ENGLISH:::-------Delegate:::代表
 
 名词: 代表; 襄理
 动词: 发; 委派 ... 为代表:::null:::ENGLISH:::CHINESE:::-------Disables:::禁用
