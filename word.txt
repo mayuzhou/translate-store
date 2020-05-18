@@ -16,7 +16,9 @@ Abort:::中止
 动词: 丢弃; 废弃; 弃; 抛弃; 弃置; 摈弃; 摈除; 屏弃; 摈; 撇弃
 名词: 抛弃物:::null:::CHINESE:::ENGLISH:::-------Enhancer:::增强剂::::::CHINESE:::ENGLISH:::-------Initializing:::初始化中
 
-动词: 初始化:::null:::ENGLISH:::CHINESE:::-------Instantiation:::实例化:::null:::ENGLISH:::CHINESE:::-------Least frequently used:::最少使用:::null:::ENGLISH:::CHINESE:::-------Least recently used:::最近最少使用:::null:::ENGLISH:::CHINESE:::-------Predicate:::谓语
+动词: 初始化:::null:::ENGLISH:::CHINESE:::-------Instantiation:::实例化:::null:::ENGLISH:::CHINESE:::-------Least frequently used:::最少使用:::null:::ENGLISH:::CHINESE:::-------Least recently used:::最近最少使用:::null:::ENGLISH:::CHINESE:::-------Partner:::伙伴
+
+名词: 伙伴; 搭档; 同伴; 伴; 股东; 朋友; 伙; 同伙; 参与者; 对手; 丈夫; 陪伴; 伴儿; 夫人; 配手; 对向; 伴吕; 合伙人; 参加者; 夥; 合夥人:::null:::ENGLISH:::CHINESE:::-------Predicate:::谓语
 
 名词: 谓语; 谓词; 宾词; 述语
 动词: 断言; 断定为
@@ -69,9 +71,7 @@ Abort:::中止
 
 动词: 表明; 表示; 指出; 标明; 指; 预示; 意味着; 标志; 主; 隐射; 选拔:::null:::CHINESE:::ENGLISH:::-------invocation:::调用
 
-名词: 开会祈祷:::ˌinvəˈkāSHən:::ENGLISH:::CHINESE:::-------mall:::购物中心
-
-名词: 购物中心; 林荫路:::môl:::ENGLISH:::CHINESE:::-------permit:::允许
+名词: 开会祈祷:::ˌinvəˈkāSHən:::ENGLISH:::CHINESE:::-------permit:::允许
 
 动词: 允许; 许可; 准许; 容许; 许; 准; 允; 容; 准予; 得; 兴; 给
 名词: 允许; 许可证; 执照; 凭照:::ˈpərmit:::ENGLISH:::CHINESE:::-------purposes:::目的
