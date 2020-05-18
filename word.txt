@@ -2,10 +2,7 @@ Abort:::中止
 
 动词: 退出; 舍弃:::null:::CHINESE:::ENGLISH:::-------Acquires:::取得
 
-动词: 获得; 取得; 树立; 学到; 添置; 兼并; 买; 买进; 染; 养; 嬴; 发迹; 发展:::null:::CHINESE:::ENGLISH:::-------Aware:::知道的
-
-形容词: 察觉; 注意到; 自觉; 知道的
-动词: 觉:::əˈwe(ə)r:::ENGLISH:::CHINESE:::-------Barrier:::屏障
+动词: 获得; 取得; 树立; 学到; 添置; 兼并; 买; 买进; 染; 养; 嬴; 发迹; 发展:::null:::CHINESE:::ENGLISH:::-------Barrier:::屏障
 
 名词: 屏障; 障碍; 障; 壁垒; 障碍物; 关; 栏栅:::null:::CHINESE:::ENGLISH:::-------COUPON:::优惠券
 
