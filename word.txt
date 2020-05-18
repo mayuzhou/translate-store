@@ -2,9 +2,11 @@ Abort:::中止
 
 动词: 退出; 舍弃:::null:::CHINESE:::ENGLISH:::-------Acquires:::取得
 
-动词: 获得; 取得; 树立; 学到; 添置; 兼并; 买; 买进; 染; 养; 嬴; 发迹; 发展:::null:::CHINESE:::ENGLISH:::-------Barrier:::屏障
+动词: 获得; 取得; 树立; 学到; 添置; 兼并; 买; 买进; 染; 养; 嬴; 发迹; 发展:::null:::CHINESE:::ENGLISH:::-------Aware:::知道的::::::CHINESE:::ENGLISH:::-------Barrier:::屏障
 
-名词: 屏障; 障碍; 障; 壁垒; 障碍物; 关; 栏栅:::null:::CHINESE:::ENGLISH:::-------Customizer:::定制器:::null:::CHINESE:::ENGLISH:::-------Cyclic:::循环的:::null:::CHINESE:::ENGLISH:::-------Delegate:::代表
+名词: 屏障; 障碍; 障; 壁垒; 障碍物; 关; 栏栅:::null:::CHINESE:::ENGLISH:::-------COUPON:::优惠券
+
+名词: 优惠券:::ˈk(y)o͞oˌpän:::ENGLISH:::CHINESE:::-------Customizer:::定制器:::null:::CHINESE:::ENGLISH:::-------Cyclic:::循环的:::null:::CHINESE:::ENGLISH:::-------Delegate:::代表
 
 名词: 代表; 襄理
 动词: 发; 委派 ... 为代表:::null:::ENGLISH:::CHINESE:::-------Disables:::禁用
@@ -40,7 +42,9 @@ Abort:::中止
 
 名词: 行业; 商业; 贸; 业; 商; 工
 动词: 换; 营业; 出售; 营; 购物
-形容词: 商业的; 通商的; 贸易的:::null:::ENGLISH:::CHINESE:::-------available:::可用的
+形容词: 商业的; 通商的; 贸易的:::null:::ENGLISH:::CHINESE:::-------assemble:::组装
+
+动词: 集合; 组合; 聚集; 集聚; 组成; 调集; 攒; 会聚; 会合; 汇; 齐集; 总; 会; 萃; 凑合; 聚; 揫; 鼓起; 营建; 群集; 萃聚; 荟集; 萃集::::::CHINESE:::ENGLISH:::-------available:::可用的
 
 形容词: 可得到; 合宜的; 可用的:::əˈvāləbəl:::ENGLISH:::CHINESE:::-------coordination:::协调
 
