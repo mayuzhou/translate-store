@@ -69,9 +69,7 @@ Abort:::中止
 
 名词: 垃圾; 废物; 垃; 尘芥:::ˈgärbij:::ENGLISH:::CHINESE:::-------indicate:::表明
 
-动词: 表明; 表示; 指出; 标明; 指; 预示; 意味着; 标志; 主; 隐射; 选拔:::null:::CHINESE:::ENGLISH:::-------invocation:::调用
-
-名词: 开会祈祷:::ˌinvəˈkāSHən:::ENGLISH:::CHINESE:::-------permit:::允许
+动词: 表明; 表示; 指出; 标明; 指; 预示; 意味着; 标志; 主; 隐射; 选拔:::null:::CHINESE:::ENGLISH:::-------permit:::允许
 
 动词: 允许; 许可; 准许; 容许; 许; 准; 允; 容; 准予; 得; 兴; 给
 名词: 允许; 许可证; 执照; 凭照:::ˈpərmit:::ENGLISH:::CHINESE:::-------purposes:::目的
