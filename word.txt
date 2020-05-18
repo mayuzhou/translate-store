@@ -9,9 +9,7 @@ Abort:::中止
 名词: 优惠券:::ˈk(y)o͞oˌpän:::ENGLISH:::CHINESE:::-------Customizer:::定制器:::null:::CHINESE:::ENGLISH:::-------Cyclic:::循环的:::null:::CHINESE:::ENGLISH:::-------Delegate:::代表
 
 名词: 代表; 襄理
-动词: 发; 委派 ... 为代表:::null:::ENGLISH:::CHINESE:::-------Disables:::禁用
-
-动词: 作不用的:::disˈābəl:::ENGLISH:::CHINESE:::-------Discard:::丢弃
+动词: 发; 委派 ... 为代表:::null:::ENGLISH:::CHINESE:::-------Discard:::丢弃
 
 动词: 丢弃; 废弃; 弃; 抛弃; 弃置; 摈弃; 摈除; 屏弃; 摈; 撇弃
 名词: 抛弃物:::null:::CHINESE:::ENGLISH:::-------Enhancer:::增强剂::::::CHINESE:::ENGLISH:::-------Initializing:::初始化中
