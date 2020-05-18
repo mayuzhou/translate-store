@@ -6,12 +6,15 @@ Abort:::中止
 
 名词: 屏障; 障碍; 障; 壁垒; 障碍物; 关; 栏栅:::null:::CHINESE:::ENGLISH:::-------COUPON:::优惠券
 
-名词: 优惠券:::ˈk(y)o͞oˌpän:::ENGLISH:::CHINESE:::-------Customizer:::定制器:::null:::CHINESE:::ENGLISH:::-------Cyclic:::循环的:::null:::CHINESE:::ENGLISH:::-------Disables:::禁用
+名词: 优惠券:::ˈk(y)o͞oˌpän:::ENGLISH:::CHINESE:::-------Customizer:::定制器:::null:::CHINESE:::ENGLISH:::-------Cyclic:::循环的:::null:::CHINESE:::ENGLISH:::-------Delegate:::代表
+
+名词: 代表; 襄理
+动词: 发; 委派 ... 为代表:::null:::ENGLISH:::CHINESE:::-------Disables:::禁用
 
 动词: 作不用的:::disˈābəl:::ENGLISH:::CHINESE:::-------Discard:::丢弃
 
 动词: 丢弃; 废弃; 弃; 抛弃; 弃置; 摈弃; 摈除; 屏弃; 摈; 撇弃
-名词: 抛弃物:::null:::CHINESE:::ENGLISH:::-------Initializing:::初始化中
+名词: 抛弃物:::null:::CHINESE:::ENGLISH:::-------Enhancer:::增强剂::::::CHINESE:::ENGLISH:::-------Initializing:::初始化中
 
 动词: 初始化:::null:::ENGLISH:::CHINESE:::-------Instantiation:::实例化:::null:::ENGLISH:::CHINESE:::-------Least frequently used:::最少使用:::null:::ENGLISH:::CHINESE:::-------Least recently used:::最近最少使用:::null:::ENGLISH:::CHINESE:::-------Partner:::伙伴
 
@@ -45,9 +48,14 @@ Abort:::中止
 
 形容词: 可得到; 合宜的; 可用的:::əˈvāləbəl:::ENGLISH:::CHINESE:::-------coordination:::协调
 
-名词: 协调; 协作:::kōˌôrdnˈāSHən:::ENGLISH:::CHINESE:::-------desired:::想要的
+名词: 协调; 协作:::kōˌôrdnˈāSHən:::ENGLISH:::CHINESE:::-------delivery:::交货
 
-动词: 欲望; 愿望; 欲; 要; 选拔; 愒:::null:::CHINESE:::ENGLISH:::-------dynamic:::动态
+名词: 交货; 输送; 输; 发出; 娩; 发行::::::CHINESE:::ENGLISH:::-------desired:::想要的
+
+动词: 欲望; 愿望; 欲; 要; 选拔; 愒:::null:::CHINESE:::ENGLISH:::-------discount:::折扣
+
+名词: 折扣; 贴现; 贴息; 扣; 扣头
+动词: 贴现; 折; 打折扣::::::CHINESE:::ENGLISH:::-------dynamic:::动态
 
 名词: 动态; 动力学
 形容词: 活跃; 能动; 轰轰烈烈:::dīˈnamik:::ENGLISH:::CHINESE:::-------enumeration:::列举
