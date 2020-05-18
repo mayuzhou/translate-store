@@ -45,9 +45,7 @@ Abort:::中止
 
 形容词: 可得到; 合宜的; 可用的:::əˈvāləbəl:::ENGLISH:::CHINESE:::-------coordination:::协调
 
-名词: 协调; 协作:::kōˌôrdnˈāSHən:::ENGLISH:::CHINESE:::-------delivery:::交货
-
-名词: 交货; 输送; 输; 发出; 娩; 发行:::diˈlivərē:::ENGLISH:::CHINESE:::-------desired:::想要的
+名词: 协调; 协作:::kōˌôrdnˈāSHən:::ENGLISH:::CHINESE:::-------desired:::想要的
 
 动词: 欲望; 愿望; 欲; 要; 选拔; 愒:::null:::CHINESE:::ENGLISH:::-------dynamic:::动态
 
