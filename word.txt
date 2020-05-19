@@ -16,7 +16,9 @@ Abort:::中止
 动词: 丢弃; 废弃; 弃; 抛弃; 弃置; 摈弃; 摈除; 屏弃; 摈; 撇弃
 名词: 抛弃物:::null:::CHINESE:::ENGLISH:::-------Enhancer:::增强剂::::::CHINESE:::ENGLISH:::-------Initializing:::初始化中
 
-动词: 初始化:::null:::ENGLISH:::CHINESE:::-------Instantiation:::实例化::::::CHINESE:::ENGLISH:::-------Least frequently used:::最少使用:::null:::ENGLISH:::CHINESE:::-------Least recently used:::最近最少使用:::null:::ENGLISH:::CHINESE:::-------Predicate:::谓语
+动词: 初始化:::null:::ENGLISH:::CHINESE:::-------Instantiation:::实例化::::::CHINESE:::ENGLISH:::-------Least frequently used:::最少使用:::null:::ENGLISH:::CHINESE:::-------Least recently used:::最近最少使用:::null:::ENGLISH:::CHINESE:::-------Partner:::伙伴
+
+名词: 伙伴; 搭档; 同伴; 伴; 股东; 朋友; 伙; 同伙; 参与者; 对手; 丈夫; 陪伴; 伴儿; 夫人; 配手; 对向; 伴吕; 合伙人; 参加者; 夥; 合夥人:::null:::ENGLISH:::CHINESE:::-------Predicate:::谓语
 
 名词: 谓语; 谓词; 宾词; 述语
 动词: 断言; 断定为
@@ -26,7 +28,10 @@ Abort:::中止
 
 名词: 特权; 基本人权:::ˈpriv(ə)lij:::ENGLISH:::CHINESE:::-------Propagate:::传播
 
-动词: 传播; 宣传; 宣扬; 传布; 孳; 繁; 生息; 传道; 广传; 传种:::null:::CHINESE:::ENGLISH:::-------Sensitive:::敏感
+动词: 传播; 宣传; 宣扬; 传布; 孳; 繁; 生息; 传道; 广传; 传种:::null:::CHINESE:::ENGLISH:::-------Reference:::参考
+
+动词: 参考
+名词: 参考::::::CHINESE:::ENGLISH:::-------Sensitive:::敏感
 
 形容词: 敏感; 识相; 灵敏的:::null:::ENGLISH:::CHINESE:::-------Smart:::聪明
 
