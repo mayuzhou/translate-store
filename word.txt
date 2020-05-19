@@ -28,10 +28,7 @@ Abort:::中止
 
 名词: 特权; 基本人权:::ˈpriv(ə)lij:::ENGLISH:::CHINESE:::-------Propagate:::传播
 
-动词: 传播; 宣传; 宣扬; 传布; 孳; 繁; 生息; 传道; 广传; 传种:::null:::CHINESE:::ENGLISH:::-------Reference:::参考
-
-动词: 参考
-名词: 参考:::null:::ENGLISH:::CHINESE:::-------Sensitive:::敏感
+动词: 传播; 宣传; 宣扬; 传布; 孳; 繁; 生息; 传道; 广传; 传种:::null:::CHINESE:::ENGLISH:::-------Sensitive:::敏感
 
 形容词: 敏感; 识相; 灵敏的:::null:::ENGLISH:::CHINESE:::-------Smart:::聪明
 
