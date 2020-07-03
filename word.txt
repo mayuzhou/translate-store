@@ -9,7 +9,9 @@ Abort:::中止
 名词: 优惠券:::ˈk(y)o͞oˌpän:::ENGLISH:::CHINESE:::-------Customizer:::定制器:::null:::CHINESE:::ENGLISH:::-------Cyclic:::循环的:::null:::CHINESE:::ENGLISH:::-------Delegate:::代表
 
 名词: 代表; 襄理
-动词: 发; 委派 ... 为代表:::null:::ENGLISH:::CHINESE:::-------Disables:::禁用
+动词: 发; 委派 ... 为代表:::null:::ENGLISH:::CHINESE:::-------Destination:::目的地
+
+名词: 目的地; 终点; 地头; 目标地址; 终点地址:::null:::ENGLISH:::CHINESE:::-------Disables:::禁用
 
 动词: 作不用的::::::CHINESE:::ENGLISH:::-------Discard:::丢弃
 
@@ -48,7 +50,9 @@ Abort:::中止
 
 形容词: 可得到; 合宜的; 可用的::::::CHINESE:::ENGLISH:::-------coordination:::协调
 
-名词: 协调; 协作:::kōˌôrdnˈāSHən:::ENGLISH:::CHINESE:::-------delivery:::交货
+名词: 协调; 协作:::kōˌôrdnˈāSHən:::ENGLISH:::CHINESE:::-------coupons:::优惠券
+
+名词: 优惠券:::null:::ENGLISH:::CHINESE:::-------delivery:::交货
 
 名词: 交货; 输送; 输; 发出; 娩; 发行::::::CHINESE:::ENGLISH:::-------desired:::想要的
 
